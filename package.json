@@ -1,0 +1,8 @@
+{
+  "name": "quality-ingredients",
+  "version": "1.0.0",
+  "description": "Dondon Vauxhall Quality Ingredients Landing Page",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  }
+}
